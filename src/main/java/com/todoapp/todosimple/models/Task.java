@@ -39,7 +39,7 @@ public class Task {
         this.description = description;
     }
 
-    public long getId() {
+    public Integer getId() {
         return id;
     }
 
