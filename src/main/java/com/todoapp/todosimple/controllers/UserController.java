@@ -23,7 +23,7 @@ import com.todoapp.todosimple.models.User.UpdateUser;
 import com.todoapp.todosimple.services.UserService;
 
 @RestController
-@RequestMapping("/user/")
+@RequestMapping("/user")
 @Validated
 public class UserController {
     

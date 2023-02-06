@@ -23,7 +23,7 @@ import com.todoapp.todosimple.services.TaskService;
 import com.todoapp.todosimple.services.UserService;
 
 @RestController
-@RequestMapping("/task/")
+@RequestMapping("/task")
 @Validated
 public class TaskController {
     
